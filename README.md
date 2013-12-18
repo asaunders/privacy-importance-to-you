@@ -2,9 +2,9 @@
 
 **TERMS OF PARTICIPATION:**
 
-**By contributing to this project, you certify that:**
+**By contributing to this project, you agree that your contributions are licensed under the Creative Commons Attribution 4.0 International Public License, and you certify that:**
 
-**(1) You have the right to submit your contribution(s) under the license indicated in this GitHub repository's LICENSE.pdf file (the Creative Commons Attribution 4.0 International Public license).**
+**(1) You have the right to submit your contribution(s) under the Creative Commons Attribution 4.0 International Public license).**
 
 GOALS OF THIS PROJECT:
 
