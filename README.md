@@ -2,9 +2,7 @@
 
 **TERMS OF PARTICIPATION:**
 
-**By contributing to this project, you agree that your contributions are licensed under the Creative Commons Attribution 4.0 International Public License, and you certify that:**
-
-**(1) You have the right to submit your contribution(s) under the Creative Commons Attribution 4.0 International Public license).**
+**By contributing to this project, you agree that your contribution(s) is/are licensed under the Creative Commons Attribution 4.0 International Public License, and you certify that you have the right to submit your contribution(s) under the Creative Commons Attribution 4.0 International Public License.**
 
 GOALS OF THIS PROJECT:
 
