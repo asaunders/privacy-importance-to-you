@@ -11,3 +11,10 @@ We can apply this logic to understanding the world's current privacy crisis. If 
 Today, it has become more difficult for individuals to guarantee the secrecy or anonymity of their communications than for those living through the Soviet Union. Centralized social networking services collect massive amounts of data on the minutiae of individual social and business life. Computers running proprietary software that cannot be audited for privacy-defeating backdoors are not only the norm, they are also status symbols. Advertising companies have saturated the Internet with tracking technology. It is essentially impossible for non-technical individuals to send email that cannot be intercepted by private organizations and state agents. And the NSA has put into place machinery that collects unimaginable amounts of personal information from the Internet for state monitoring; among other crimes, it has effectively destroyed the ability to read online in secret.
 
 Privacy is important to me because a society without privacy is a society without autonomy. And without autonomy, there is neither freedom nor democracy."
+
+2) Testimonial by Matt Katz, United States of America:
+"The public life is a series of masks. People project what they want each other to see - and rightly so. We need certain norms to rely on for our lives to mesh well together. 
+
+But private life is the more interesting one. In privacy I can feel free to take all of my masks off - or to experiment with new ones. I can discover who I want to be often by discovering who I don't want to be - and I can make mistakes. Far better that I experiment and make mistakes in private or within a close private circle than that I be forced to do all my learning in public.
+
+I learned to be good by making mistakes - and I don't want to share all the ugly details with everyone. I am embarassed by some of it. I want that free space to grow better."
