@@ -4,13 +4,11 @@
 
 **By contributing to this project, you agree that your contribution(s) is/are licensed under the Creative Commons Attribution 4.0 International Public License, and you certify that you have the right to submit your contribution(s) under the Creative Commons Attribution 4.0 International Public License.**
 
-
-**Want to send a testimonial and remain anonymous?**
+Want to send a testimonial and remain anonymous?
 
 Please email me your testimonial at privacyimportance@nym.hush.com.
 
-
-**GOALS OF THIS PROJECT:**
+GOALS OF THIS PROJECT:
 
 Given Edward Snowden's revelations of mass surveillance being conducted by the United States National Security Agency and its partners, the importance of public discussion of the value of privacy has never been greater.
 
@@ -18,7 +16,6 @@ This project aims to collect individual testimonials of the value and importance
 
 Pull requests are welcome and needed. Thank you for your contributions.
 
-
-**UPDATES:**
+UPDATES:
 
 (12/23/2013) A big thanks to Boing Boing for linking to this project! Pull requests merged.
