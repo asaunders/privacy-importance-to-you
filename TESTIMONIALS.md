@@ -12,9 +12,17 @@ Today, it has become more difficult for individuals to guarantee the secrecy or 
 
 Privacy is important to me because a society without privacy is a society without autonomy. And without autonomy, there is neither freedom nor democracy."
 
+
+
 2) Testimonial by Matt Katz, United States of America:
 "The public life is a series of masks. People project what they want each other to see - and rightly so. We need certain norms to rely on for our lives to mesh well together. 
 
 But private life is the more interesting one. In privacy I can feel free to take all of my masks off - or to experiment with new ones. I can discover who I want to be often by discovering who I don't want to be - and I can make mistakes. Far better that I experiment and make mistakes in private or within a close private circle than that I be forced to do all my learning in public.
 
 I learned to be good by making mistakes - and I don't want to share all the ugly details with everyone. I am embarassed by some of it. I want that free space to grow better."
+
+
+
+3) Testimonial by x, US:
+
+"I spent a year of my life in jail because an ex-roommate's closet contained a pile of junk I hadn't gotten around to throwing out. That pile of junk contained a USB key of some minor capacity. I have no doubt that he didn't know it was there, had never accessed it, and had no idea of the contents. Because of an illegal warrantless search due to a completely unrelated issue, his room was searched and this item was found to contain illegal data. The search was never authorised by the constitution or any legitimate authority. I was held liable merely because I was the only one living there at the time Despite that the item in question was never in my constructive posession or control. Eventually the entire case was thrown out. My roommate was safe because "posession is 9/10 of the law" even though I had no posession of the item myself, I was closer and a valid target in their eyes for a separate issue."
