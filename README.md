@@ -4,9 +4,7 @@
 
 **By contributing to this project, you agree that your contribution(s) is/are licensed under the Creative Commons Attribution 4.0 International Public License, and you certify that you have the right to submit your contribution(s) under the Creative Commons Attribution 4.0 International Public License.**
 
-Want to send a testimonial and remain anonymous?
-
-Please email me your testimonial at privacyimportance@nym.hush.com.
+Want to send a testimonial and remain anonymous? Please email me your testimonial at privacyimportance@nym.hush.com.
 
 GOALS OF THIS PROJECT:
 
