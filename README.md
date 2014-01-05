@@ -6,7 +6,7 @@
 
 Want to send a testimonial and remain anonymous? Please email me your testimonial at privacyimportance@nym.hush.com.
 
-GOALS OF THIS PROJECT:
+GOAL OF THIS PROJECT:
 
 This project aims to collect individual testimonials of the value and importance of privacy to oneself. Pull requests are welcome and needed. Thank you for your contributions.
 
